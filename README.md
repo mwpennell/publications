@@ -1,4 +1,4 @@
-Complete list of papers by [Matthew Pennell](http://www.zoology.ubc.ca/person/pennell) his lab at the [University of British Columbia](http://www.zoology.ubc.ca/).
+Complete list of papers by [Matthew Pennell](http://www.zoology.ubc.ca/person/pennell) and his research group in the University of British Columbia's [Zoology Department](http://www.zoology.ubc.ca/) and [Biodiversity Research Centre](https://biodiversity.ubc.ca/).
 
 
 [Google Scholar profile](https://scholar.google.ca/citations?user=mxS1rJoAAAAJ&hl=en)
