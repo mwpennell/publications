@@ -1,12 +1,15 @@
-Complete list of papers by [Matthew Pennell](http://www.zoology.ubc.ca/person/pennell) his lab at the [University of [British Columbia](http://www.zoology.ubc.ca/).
+Complete list of papers by [Matthew Pennell](http://www.zoology.ubc.ca/person/pennell) his lab at the [University of British Columbia](http://www.zoology.ubc.ca/).
 
 
 [Google Scholar profile](https://scholar.google.ca/citations?user=mxS1rJoAAAAJ&hl=en)
 
 
+**Bold** indicates lab members. \* denotes equal contributions.
+
+
 ### 2019
 
-Henao Diaz, L.F., L.J. Harmon, M.T.C. Sugawara, and **M.W. Pennell**. In review. Macroevolutionary diversification rates show time-dependency. [[preprint]](https://www.biorxiv.org/content/early/2018/08/21/396598) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/henaodiaz-biorxiv-2018.pdf)
+**Henao Diaz, L.F.**, L.J. Harmon, **M.T.C. Sugawara**, and **M.W. Pennell**. Macroevolutionary diversification rates show time-dependency. Proceedings of the National Academy of Sciences. [[doi]](https://www.pnas.org/content/early/2019/03/22/1818058116) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/henaodiaz-pnas-2019.pdf)
 
 Sarver, B.A.J., **M.W. Pennell**, J.W. Brown, S. Keeble, K.M. Hardwick, J. Sullivan, and L.J. Harmon. In review. The choice of tree prior and molecular clock does not substantially affect phylogenetic inferences of diversification rates. [[preprint]](https://www.biorxiv.org/content/early/2018/06/29/358788)[[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/sarver-biorxiv-2018.pdf)
 
