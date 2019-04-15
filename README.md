@@ -39,7 +39,7 @@ Mazel, F., A.O. Mooers, G.V. dalla Riva, and **M.W. Pennell**. Conserving phylog
 
 Zenil-Ferguson, R. and **M.W. Pennell**. Trait-dependent diversification and its alternative (Digest). Evolution 71:1732-1734. [[doi]](http://onlinelibrary.wiley.com/doi/10.1111/evo.13262/full) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/zenilferguson-evolution-2017.pdf)
 
-D. Schluter and **M.W. Pennell**. Speciation gradients and the distribution of biodiversity. Nature 546:48-55. [[doi]](https://www.nature.com/nature/journal/v546/n7656/full/nature22897.html) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/schluter-nature-2017.pdf)
+Schluter, D. and **M.W. Pennell**. Speciation gradients and the distribution of biodiversity. Nature 546:48-55. [[doi]](https://www.nature.com/nature/journal/v546/n7656/full/nature22897.html) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/schluter-nature-2017.pdf)
 
 **Pennell, M.W.** and M.I. O'Connor. A modest proposal for unifying macroevolution and ecosystem ecology. The American Naturalist 189:ii-iii [[doi]](http://www.journals.uchicago.edu/doi/full/10.1086/691710) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/pennell-amnat-2017.pdf)
 
