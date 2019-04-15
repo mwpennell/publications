@@ -27,7 +27,7 @@ Falster, D., R.G. FitzJohn, **M.W. Pennell**, and W.K. Cornwell. In review. Vers
 
 Louca, S., P.M. Shih, **M.W. Pennell**, W.W. Fischer, L.W. Parfrey, M. Doebeli. Bacterial diversification through geological time. Nature Ecology and Evolution 2: 1458-1467. [[doi]](https://www.nature.com/articles/s41559-018-0625-0) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/louca-nee-2018.pdf)
 
-Uyeda, J.C., R. Zenil-Ferguson, and **M.W. Pennell**. Rethinking phylogenetic comparative methods. Systematic Biology. [[doi]](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syy031/4985805) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/uyeda-sysbio-2018.pdf)
+Uyeda, J.C., R. Zenil-Ferguson, and **M.W. Pennell**. Rethinking phylogenetic comparative methods. Systematic Biology 67:1091-1109. [[doi]](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syy031/4985805) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/uyeda-sysbio-2018.pdf)
 
 Mazel, F., **M.W. Pennell**, M. Cadotte, S. Diaz, G.V. dalla Riva, R. Grenyer, F. Leprieur, A.O. Mooers, D. Mouillot, C.M. Tucker, and W. Pearse. Prioritizing phylogenetic diversity captures functional diversity unreliably. Nature Communications 9:2888. [[doi]](https://www.nature.com/articles/s41467-018-05126-3) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/mazel-ncomm-2018.pdf)
 
