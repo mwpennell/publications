@@ -9,6 +9,8 @@ Complete list of papers by [Matthew Pennell](http://www.zoology.ubc.ca/person/pe
 
 ### 2019
 
+Harmon, L.J., C.S. Andreazzi, F. Débarre, J. Drury, E.E. Goldberg, A.B. Martins, C.J. Melián, A. Narwani, S.L. Nuismer, **M.W. Pennell**, S.M. Rudman, O. Seehausen, D. Silverstro, M. Weber, and B. Matthews. In press. Detecting the Macroevolutionary Signal of Species Interactions. Journal of Evolutionary Biology. [[doi]](https://onlinelibrary.wiley.com/doi/abs/10.1111/jeb.13477) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/harmon-jeb-2019.pdf)
+
 **Henao Diaz, L.F.**, L.J. Harmon, **M.T.C. Sugawara**, and **M.W. Pennell**. Macroevolutionary diversification rates show time-dependency. Proceedings of the National Academy of Sciences. [[doi]](https://www.pnas.org/content/early/2019/03/22/1818058116) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/henaodiaz-pnas-2019.pdf)
 
 Sarver, B.A.J., **M.W. Pennell**, J.W. Brown, S. Keeble, K.M. Hardwick, J. Sullivan, and L.J. Harmon. The choice of tree prior and molecular clock does not substantially affect phylogenetic inferences of diversification rates. PeerJ:e6334 [[doi]](https://peerj.com/articles/6334/) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/sarver-peerj-2019.pdf)
