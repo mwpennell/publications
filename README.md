@@ -9,6 +9,10 @@ Complete list of papers by [Matthew Pennell](http://www.zoology.ubc.ca/person/pe
 
 ### 2019
 
+Falster, D., R.G. FitzJohn, **M.W. Pennell**, and W.K. Cornwell. 2019. Datastorr: a workflow and package for delivering successive versions of 'evolving data' directly into R. Gigascience 8:giz035 [[doi]](https://academic.oup.com/gigascience/article/8/5/giz035/5482388) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/falster-gigascience-2019.pdf) 
+
+* [datastorr:](https://github.com/ropenscilabs/datastorr) a R package to build and distribute versioned datasets with GitHub.
+
 Harmon, L.J., C.S. Andreazzi, F. Débarre, J. Drury, E.E. Goldberg, A.B. Martins, C.J. Melián, A. Narwani, S.L. Nuismer, **M.W. Pennell**, S.M. Rudman, O. Seehausen, D. Silverstro, M. Weber, and B. Matthews. In press. Detecting the Macroevolutionary Signal of Species Interactions. Journal of Evolutionary Biology. [[doi]](https://onlinelibrary.wiley.com/doi/abs/10.1111/jeb.13477) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/harmon-jeb-2019.pdf)
 
 **Henao Diaz, L.F.**, L.J. Harmon, **M.T.C. Sugawara**, and **M.W. Pennell**. Macroevolutionary diversification rates show time-dependency. Proceedings of the National Academy of Sciences 116:7403-7408. [[doi]](https://www.pnas.org/content/early/2019/03/22/1818058116) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/henaodiaz-pnas-2019.pdf)
@@ -19,9 +23,6 @@ Sarver, B.A.J., **M.W. Pennell**, J.W. Brown, S. Keeble, K.M. Hardwick, J. Sulli
 
 Mazel, F., **M.W. Pennell**, M. Cadotte, S. Diaz, G.V. dalla Riva, R. Grenyer, F. Leprieur, A.O. Mooers, D. Mouillot, C.M. Tucker, and W. D. Pearse. Reply to “Global conservation of phylogenetic diversity captures more than just functional diversity”. Nature Communications 10:858. [[doi]](https://www.nature.com/articles/s41467-019-08603-5) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/mazel-ncomm-2019.pdf)
 
-Falster, D., R.G. FitzJohn, **M.W. Pennell**, and W.K. Cornwell. In review. Versioned data: why it is needed and how it can be achieved (easily and cheaply). [[preprint]](https://peerj.com/preprints/3401/) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/falster-peerj-2018.pdf) [[repo]](https://github.com/traitecoevo/data_versioning)
-
-* [datastorr:](https://github.com/ropenscilabs/datastorr) a R package to build and distribute versioned datasets with GitHub.
 
 ### 2018
 
