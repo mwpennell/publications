@@ -11,7 +11,7 @@ Complete list of papers by [Matthew Pennell](http://www.zoology.ubc.ca/person/pe
 
 C.M. Tucker, T. Aze, M.W. Cadotte, J.L. Cantalapiedra, C. Chisholm, S. Díaz, R. Grenyer, D. Huang, F. Mazel, W.D. Pearse, **M.W. Pennell**, M. Winter, and A.Ø. Mooers. Assessing the utility of conserving evolutionary history. Biological Reviews. [[doi]](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12526) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/tucker-biolrev-2019.pdf)
 
-Cantalapiedra, J.L., T. Aze, M.W. Cadotte, G.V. Dalla Riva, D.Huang, F. Mazel, **M.W. Pennell**, M. Ríos, and A. Ø. Mooers. Conserving evolutionary history does not result in greater diversity over geological time scales. Proceedings of the Royal Society B: Biological Sciences 286. [[doi]](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2018.2896) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/cantalapiedra-procb-2019.pdf)
+Cantalapiedra, J.L., T. Aze, M.W. Cadotte, G.V. Dalla Riva, D.Huang, F. Mazel, **M.W. Pennell**, M. Ríos, and A.Ø. Mooers. Conserving evolutionary history does not result in greater diversity over geological time scales. Proceedings of the Royal Society B: Biological Sciences 286. [[doi]](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2018.2896) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/cantalapiedra-procb-2019.pdf)
 
 Falster, D., R.G. FitzJohn, **M.W. Pennell**, and W.K. Cornwell. Datastorr: a workflow and package for delivering successive versions of 'evolving data' directly into R. Gigascience 8:giz035 [[doi]](https://academic.oup.com/gigascience/article/8/5/giz035/5482388) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/falster-gigascience-2019.pdf) 
 
