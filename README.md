@@ -9,11 +9,15 @@ Complete list of papers by [Matthew Pennell](http://www.zoology.ubc.ca/person/pe
 
 ### 2019
 
-Falster, D., R.G. FitzJohn, **M.W. Pennell**, and W.K. Cornwell. 2019. Datastorr: a workflow and package for delivering successive versions of 'evolving data' directly into R. Gigascience 8:giz035 [[doi]](https://academic.oup.com/gigascience/article/8/5/giz035/5482388) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/falster-gigascience-2019.pdf) 
+C.M. Tucker, T. Aze, M.W. Cadotte, J.L. Cantalapiedra, C. Chisholm, S. Díaz, R. Grenyer, D. Huang, F. Mazel, W.D. Pearse, **M.W. Pennell**, M. Winter, and A.Ø. Mooers. Assessing the utility of conserving evolutionary history. Biological Reviews. [[doi]](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12526) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/tucker-biolrev-2019.pdf)
+
+Cantalapiedra, J.L., T. Aze, M.W. Cadotte, G.V. Dalla Riva, D.Huang, F. Mazel, **M.W. Pennell**, M. Ríos, and A. Ø. Mooers. Conserving evolutionary history does not result in greater diversity over geological time scales. Proceedings of the Royal Society B: Biological Sciences 286. [[doi]](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2018.2896) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/cantalapiedra-procb-2019.pdf)
+
+Falster, D., R.G. FitzJohn, **M.W. Pennell**, and W.K. Cornwell. Datastorr: a workflow and package for delivering successive versions of 'evolving data' directly into R. Gigascience 8:giz035 [[doi]](https://academic.oup.com/gigascience/article/8/5/giz035/5482388) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/falster-gigascience-2019.pdf) 
 
 * [datastorr:](https://github.com/ropenscilabs/datastorr) a R package to build and distribute versioned datasets with GitHub.
 
-Harmon, L.J., C.S. Andreazzi, F. Débarre, J. Drury, E.E. Goldberg, A.B. Martins, C.J. Melián, A. Narwani, S.L. Nuismer, **M.W. Pennell**, S.M. Rudman, O. Seehausen, D. Silverstro, M. Weber, and B. Matthews. In press. Detecting the Macroevolutionary Signal of Species Interactions. Journal of Evolutionary Biology. [[doi]](https://onlinelibrary.wiley.com/doi/abs/10.1111/jeb.13477) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/harmon-jeb-2019.pdf)
+Harmon, L.J., C.S. Andreazzi, F. Débarre, J. Drury, E.E. Goldberg, A.B. Martins, C.J. Melián, A. Narwani, S.L. Nuismer, **M.W. Pennell**, S.M. Rudman, O. Seehausen, D. Silverstro, M. Weber, and B. Matthews. Detecting the Macroevolutionary Signal of Species Interactions. Journal of Evolutionary Biology. [[doi]](https://onlinelibrary.wiley.com/doi/abs/10.1111/jeb.13477) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/harmon-jeb-2019.pdf)
 
 **Henao Diaz, L.F.**, L.J. Harmon, **M.T.C. Sugawara**, and **M.W. Pennell**. Macroevolutionary diversification rates show time-dependency. Proceedings of the National Academy of Sciences 116:7403-7408. [[doi]](https://www.pnas.org/content/early/2019/03/22/1818058116) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/henaodiaz-pnas-2019.pdf)
 
@@ -21,7 +25,7 @@ Sarver, B.A.J., **M.W. Pennell**, J.W. Brown, S. Keeble, K.M. Hardwick, J. Sulli
 
 **Pennell, M.W.** What explains latitudinal diversity gradients? Trends in Ecology & Evolution. [[doi]](https://www.sciencedirect.com/science/article/pii/S0169534719300588) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/pennell-tree-2019.pdf)
 
-Mazel, F., **M.W. Pennell**, M. Cadotte, S. Diaz, G.V. dalla Riva, R. Grenyer, F. Leprieur, A.O. Mooers, D. Mouillot, C.M. Tucker, and W. D. Pearse. Reply to “Global conservation of phylogenetic diversity captures more than just functional diversity”. Nature Communications 10:858. [[doi]](https://www.nature.com/articles/s41467-019-08603-5) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/mazel-ncomm-2019.pdf)
+Mazel, F., **M.W. Pennell**, M. Cadotte, S. Diaz, G.V. dalla Riva, R. Grenyer, F. Leprieur, A.Ø. Mooers, D. Mouillot, C.M. Tucker, and W. D. Pearse. Reply to “Global conservation of phylogenetic diversity captures more than just functional diversity”. Nature Communications 10:858. [[doi]](https://www.nature.com/articles/s41467-019-08603-5) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/mazel-ncomm-2019.pdf)
 
 
 ### 2018
@@ -30,13 +34,13 @@ Louca, S., P.M. Shih, **M.W. Pennell**, W.W. Fischer, L.W. Parfrey, M. Doebeli. 
 
 Uyeda, J.C., R. Zenil-Ferguson, and **M.W. Pennell**. Rethinking phylogenetic comparative methods. Systematic Biology 67:1091-1109. [[doi]](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syy031/4985805) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/uyeda-sysbio-2018.pdf)
 
-Mazel, F., **M.W. Pennell**, M. Cadotte, S. Diaz, G.V. dalla Riva, R. Grenyer, F. Leprieur, A.O. Mooers, D. Mouillot, C.M. Tucker, and W. Pearse. Prioritizing phylogenetic diversity captures functional diversity unreliably. Nature Communications 9:2888. [[doi]](https://www.nature.com/articles/s41467-018-05126-3) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/mazel-ncomm-2018.pdf)
+Mazel, F., **M.W. Pennell**, M. Cadotte, S. Diaz, G.V. dalla Riva, R. Grenyer, F. Leprieur, A.Ø. Mooers, D. Mouillot, C.M. Tucker, and W. Pearse. Prioritizing phylogenetic diversity captures functional diversity unreliably. Nature Communications 9:2888. [[doi]](https://www.nature.com/articles/s41467-018-05126-3) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/mazel-ncomm-2018.pdf)
 
 **Pennell, M.W.**, Judith E. Mank, and Catherine L. Peichel. Transitions in sex determination and sex chromosomes across vertebrate species. Molecular Ecology. [[doi]](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.14540) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/pennell-molecol-2018.pdf)
 
 ### 2017
 
-Mazel, F., A.O. Mooers, G.V. dalla Riva, and **M.W. Pennell**. Conserving phylogenetic diversity can be a poor strategy for conserving functional diversity. Systematic Biology 66:1019-1027. [[doi]](https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syx054) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/mazel-sysbio-2017.pdf)
+Mazel, F., A.Ø. Mooers, G.V. dalla Riva, and **M.W. Pennell**. Conserving phylogenetic diversity can be a poor strategy for conserving functional diversity. Systematic Biology 66:1019-1027. [[doi]](https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syx054) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/mazel-sysbio-2017.pdf)
 
 Zenil-Ferguson, R. and **M.W. Pennell**. Trait-dependent diversification and its alternative (Digest). Evolution 71:1732-1734. [[doi]](http://onlinelibrary.wiley.com/doi/10.1111/evo.13262/full) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/zenilferguson-evolution-2017.pdf)
 
