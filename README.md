@@ -9,6 +9,8 @@ Complete list of papers by [Matthew Pennell](http://www.zoology.ubc.ca/person/pe
 
 ### 2019
 
+**Henao Diaz, L.F.**, L.J. Harmon, **M.T.C. Sugawara**, and **M.W. Pennell**. Macroevolutionary diversification rates show time-dependency. Proceedings of the National Academy of Sciences 116:7403-7408. [[doi]](https://www.pnas.org/content/early/2019/03/22/1818058116) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/henaodiaz-pnas-2019.pdf)
+
 C.M. Tucker, T. Aze, M.W. Cadotte, J.L. Cantalapiedra, C. Chisholm, S. Díaz, R. Grenyer, D. Huang, F. Mazel, W.D. Pearse, **M.W. Pennell**, M. Winter, and A.Ø. Mooers. Assessing the utility of conserving evolutionary history. Biological Reviews. [[doi]](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12526) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/tucker-biolrev-2019.pdf)
 
 Cantalapiedra, J.L., T. Aze, M.W. Cadotte, G.V. Dalla Riva, D.Huang, F. Mazel, **M.W. Pennell**, M. Ríos, and A.Ø. Mooers. Conserving evolutionary history does not result in greater diversity over geological time scales. Proceedings of the Royal Society B: Biological Sciences 286. [[doi]](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2018.2896) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/cantalapiedra-procb-2019.pdf)
@@ -19,7 +21,7 @@ Falster, D., R.G. FitzJohn, **M.W. Pennell**, and W.K. Cornwell. Datastorr: a wo
 
 Harmon, L.J., C.S. Andreazzi, F. Débarre, J. Drury, E.E. Goldberg, A.B. Martins, C.J. Melián, A. Narwani, S.L. Nuismer, **M.W. Pennell**, S.M. Rudman, O. Seehausen, D. Silverstro, M. Weber, and B. Matthews. Detecting the Macroevolutionary Signal of Species Interactions. Journal of Evolutionary Biology. [[doi]](https://onlinelibrary.wiley.com/doi/abs/10.1111/jeb.13477) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/harmon-jeb-2019.pdf)
 
-**Henao Diaz, L.F.**, L.J. Harmon, **M.T.C. Sugawara**, and **M.W. Pennell**. Macroevolutionary diversification rates show time-dependency. Proceedings of the National Academy of Sciences 116:7403-7408. [[doi]](https://www.pnas.org/content/early/2019/03/22/1818058116) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/henaodiaz-pnas-2019.pdf)
+O'Connor, M.I., **M.W. Pennell**, F. Altermatt, B. Matthews, C.J. Melián, and A. Gonzalez. Principles of ecology revisted: integrating information and ecological theories for a more unified science. Frontiers in Ecology and Evolution 7:219. [[doi]](https://www.frontiersin.org/articles/10.3389/fevo.2019.00219/full) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/oconnor-frontiersee-2019.pdf)
 
 Sarver, B.A.J., **M.W. Pennell**, J.W. Brown, S. Keeble, K.M. Hardwick, J. Sullivan, and L.J. Harmon. The choice of tree prior and molecular clock does not substantially affect phylogenetic inferences of diversification rates. PeerJ:e6334 [[doi]](https://peerj.com/articles/6334/) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/sarver-peerj-2019.pdf)
 
