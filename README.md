@@ -25,7 +25,7 @@ O'Connor, M.I., **M.W. Pennell**, F. Altermatt, B. Matthews, C.J. Melián, and A
 
 Sarver, B.A.J., **M.W. Pennell**, J.W. Brown, S. Keeble, K.M. Hardwick, J. Sullivan, and L.J. Harmon. The choice of tree prior and molecular clock does not substantially affect phylogenetic inferences of diversification rates. PeerJ:e6334 [[doi]](https://peerj.com/articles/6334/) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/sarver-peerj-2019.pdf)
 
-**Pennell, M.W.** What explains latitudinal diversity gradients? Trends in Ecology & Evolution. [[doi]](https://www.sciencedirect.com/science/article/pii/S0169534719300588) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/pennell-tree-2019.pdf)
+**Pennell, M.W.** What explains latitudinal diversity gradients? Trends in Ecology & Evolution 34:390-392. [[doi]](https://www.sciencedirect.com/science/article/pii/S0169534719300588) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/pennell-tree-2019.pdf)
 
 Mazel, F., **M.W. Pennell**, M. Cadotte, S. Diaz, G.V. dalla Riva, R. Grenyer, F. Leprieur, A.Ø. Mooers, D. Mouillot, C.M. Tucker, and W. D. Pearse. Reply to “Global conservation of phylogenetic diversity captures more than just functional diversity”. Nature Communications 10:858. [[doi]](https://www.nature.com/articles/s41467-019-08603-5) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/mazel-ncomm-2019.pdf)
 
@@ -98,7 +98,7 @@ Slater, G.J. and **M.W. Pennell**. Robust regression and posterior predictive si
 
 Cornwell, W.K., M. Westoby, D.S. Falster, R.G. FitzJohn, B.C. O'Meara, **M.W. Pennell**, D.J. McGlinn, J.M. Eastman, A.T. Moles, P.B. Reich, D.C. Tank, I.J. Wright, L.Aarssen, J.M. Beaulieu, R.M. Kooyman, M.R. Leishman, E.T. Miller, U. Niinemets, J. Oleksyn, A. Ordonez, D.L. Royer, S.A. Smith, P.F. Stevens, L. Warman, P. Wilf, and A.E. Zanne. Functional distinctiveness of major plant lineages. Journal of Ecology 102:345-356. [[doi]](http://onlinelibrary.wiley.com/doi/10.1111/1365-2745.12208/full) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/cornwell-jecol-2014.pdf)
 
-**Pennell, M.W.**, L.J. Harmon, and J.C. Uyeda. Speciation is unlikely to drive divergence rates. Trends in Ecology & Evolution 29:72-73. [[doi]](http://www.sciencedirect.com/science/article/pii/S0169534713003054) [[pdf]]({{ url }}/pdfs/pennell-tree-2014b.pdf)
+**Pennell, M.W.**, L.J. Harmon, and J.C. Uyeda. Speciation is unlikely to drive divergence rates. Trends in Ecology & Evolution 29:72-73. [[doi]](http://www.sciencedirect.com/science/article/pii/S0169534713003054) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/pennell-tree-2014b.pdf)
 
 **Pennell, M.W.**, L.J. Harmon, and J.C. Uyeda. Is there room for punctuated equilibrium in macroevolution? Trends in Ecology & Evolution 29:23-32. [[doi]](http://www.sciencedirect.com/science/article/pii/S0169534713001997) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/pennell-tree-2014.pdf)
 
