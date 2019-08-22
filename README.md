@@ -11,7 +11,7 @@ Complete list of papers by [Matthew Pennell](http://www.zoology.ubc.ca/person/pe
 
 Louca, S., and **M.W. Pennell**. Phylogenies of extant species are consistent with an infinite array of diversification histories. BioRxiv. [[doi]](https://www.biorxiv.org/content/10.1101/719435v1) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/louca-biorxiv-2019.pdf)
 
-Louca, S., and *M.W. Pennell**. A general and efficient algorithm for the likelihood of diversification and discrete-state evolutionary models. Systematic Biology. [[doi]](https://doi.org/10.1093/sysbio/syz055) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/louca-sysbio-2019.pdf)
+Louca, S., and **M.W. Pennell**. A general and efficient algorithm for the likelihood of diversification and discrete-state evolutionary models. Systematic Biology. [[doi]](https://doi.org/10.1093/sysbio/syz055) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/louca-sysbio-2019.pdf)
 
 **Henao Diaz, L.F.**, L.J. Harmon, **M.T.C. Sugawara**, and **M.W. Pennell**. Macroevolutionary diversification rates show time-dependency. Proceedings of the National Academy of Sciences 116:7403-7408. [[doi]](https://www.pnas.org/content/early/2019/03/22/1818058116) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/henaodiaz-pnas-2019.pdf)
 
