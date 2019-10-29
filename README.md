@@ -13,7 +13,7 @@ Guzman, L.M., **M.W. Pennell**, E. Nikelski, and D.S. Srivastava. Successful int
 
 Guzman, L.M., and **M.W. Pennell** Mathematical statistics for biologists and other interesting people. Trends in Ecology and Evolution [[doi]](https://www.sciencedirect.com/science/article/pii/S0169534719302794) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/guzman-tree-2019.pdf)
 
-Kaur, K.M., and **M.W. Pennell**. Digest: Process-based phylogenetic modelsprovide unique insights into the evolutionof mutualistic networks. Evolution. [[doi]](https://onlinelibrary.wiley.com/doi/10.1111/evo.13856) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/kaur-evol-2019.pdf)
+**Kaur, K.M.**, and **M.W. Pennell**. Digest: Process-based phylogenetic modelsprovide unique insights into the evolutionof mutualistic networks. Evolution. [[doi]](https://onlinelibrary.wiley.com/doi/10.1111/evo.13856) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/kaur-evol-2019.pdf)
 
 Louca, S., and **M.W. Pennell**. Phylogenies of extant species are consistent with an infinite array of diversification histories. BioRxiv. [[doi]](https://www.biorxiv.org/content/10.1101/719435v1) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/louca-biorxiv-2019.pdf)
 
