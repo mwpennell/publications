@@ -9,11 +9,17 @@ Complete list of papers by [Matthew Pennell](http://www.zoology.ubc.ca/person/pe
 
 ### 2019
 
+Guzman, L.M., **M.W. Pennell**, E. Nikelski, and D.S. Srivastava. Successful integration of data science in undergraduate biostatistics courses using cognitive load theory. CBE Life Sciences Education 18:ar49 [[doi]](https://www.lifescied.org/doi/full/10.1187/cbe.19-02-0041) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/guzman-cbelse-2019.pdf)
+
+Guzman, L.M., and **M.W. Pennell** Mathematical statistics for biologists and other interesting people. Trends in Ecology and Evolution [[doi]](https://www.sciencedirect.com/science/article/pii/S0169534719302794) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/guzman-tree-2019.pdf)
+
+Kaur, K.M., and **M.W. Pennell**. Digest: Process-based phylogenetic modelsprovide unique insights into the evolutionof mutualistic networks. Evolution. [[doi]](https://onlinelibrary.wiley.com/doi/10.1111/evo.13856) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/kaur-evol-2019.pdf)
+
 Louca, S., and **M.W. Pennell**. Phylogenies of extant species are consistent with an infinite array of diversification histories. BioRxiv. [[doi]](https://www.biorxiv.org/content/10.1101/719435v1) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/louca-biorxiv-2019.pdf)
 
 Louca, S., and **M.W. Pennell**. A general and efficient algorithm for the likelihood of diversification and discrete-state evolutionary models. Systematic Biology. [[doi]](https://doi.org/10.1093/sysbio/syz055) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/louca-sysbio-2019.pdf)
 
-**Henao Diaz, L.F.**, L.J. Harmon, **M.T.C. Sugawara**, and **M.W. Pennell**. Macroevolutionary diversification rates show time-dependency. Proceedings of the National Academy of Sciences 116:7403-7408. [[doi]](https://www.pnas.org/content/early/2019/03/22/1818058116) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/henaodiaz-pnas-2019.pdf)
+**Henao Diaz, L.F.**, L.J. Harmon, **M.T.C. Sugawara**, E.T. Miller, and **M.W. Pennell**. Macroevolutionary diversification rates show time-dependency. Proceedings of the National Academy of Sciences 116:7403-7408. [[doi]](https://www.pnas.org/content/early/2019/03/22/1818058116) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/henaodiaz-pnas-2019.pdf)
 
 C.M. Tucker, T. Aze, M.W. Cadotte, J.L. Cantalapiedra, C. Chisholm, S. Díaz, R. Grenyer, D. Huang, F. Mazel, W.D. Pearse, **M.W. Pennell**, M. Winter, and A.Ø. Mooers. Assessing the utility of conserving evolutionary history. Biological Reviews. [[doi]](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12526) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/tucker-biolrev-2019.pdf)
 
