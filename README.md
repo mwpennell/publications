@@ -11,9 +11,9 @@ Complete list of papers by [Matthew Pennell](http://www.zoology.ubc.ca/person/pe
 
 Guzman, L.M., **M.W. Pennell**, E. Nikelski, and D.S. Srivastava. Successful integration of data science in undergraduate biostatistics courses using cognitive load theory. CBE Life Sciences Education 18:ar49 [[doi]](https://www.lifescied.org/doi/full/10.1187/cbe.19-02-0041) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/guzman-cbelse-2019.pdf)
 
-Guzman, L.M., and **M.W. Pennell** Mathematical statistics for biologists and other interesting people. Trends in Ecology and Evolution [[doi]](https://www.sciencedirect.com/science/article/pii/S0169534719302794) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/guzman-tree-2019.pdf)
+Guzman, L.M., and **M.W. Pennell**. Mathematical statistics for biologists and other interesting people. Trends in Ecology and Evolution [[doi]](https://www.sciencedirect.com/science/article/pii/S0169534719302794) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/guzman-tree-2019.pdf)
 
-**Kaur, K.M.**, and **M.W. Pennell**. Digest: Process-based phylogenetic modelsprovide unique insights into the evolutionof mutualistic networks. Evolution. [[doi]](https://onlinelibrary.wiley.com/doi/10.1111/evo.13856) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/kaur-evol-2019.pdf)
+**Kaur, K.M.**, and **M.W. Pennell**. Digest: Process-based phylogenetic models provide unique insights into the evolution of mutualistic networks. Evolution. [[doi]](https://onlinelibrary.wiley.com/doi/10.1111/evo.13856) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/kaur-evol-2019.pdf)
 
 Louca, S., and **M.W. Pennell**. Phylogenies of extant species are consistent with an infinite array of diversification histories. BioRxiv. [[doi]](https://www.biorxiv.org/content/10.1101/719435v1) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/louca-biorxiv-2019.pdf)
 
