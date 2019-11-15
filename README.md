@@ -9,11 +9,11 @@ Complete list of papers by [Matthew Pennell](http://www.zoology.ubc.ca/person/pe
 
 ### 2019
 
-**Henao Diaz, L.F.**, L.J. Harmon, **M.T.C. Sugawara**, E.T. Miller, and **M.W. Pennell**. Reply to Wiens and Scholl: The time dependency of diversification rates is a widely observed phenomenon. Proceedings of the National Academy of Sciences[[doi]](https://www.pnas.org/content/early/2019/11/11/1917189116) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/henaodiaz-pnas-2019-reply.pdf)
+**Henao Diaz, L.F.**, L.J. Harmon, **M.T.C. Sugawara**, E.T. Miller, and **M.W. Pennell**. Reply to Wiens and Scholl: The time dependency of diversification rates is a widely observed phenomenon. Proceedings of the National Academy of Sciences. [[doi]](https://www.pnas.org/content/early/2019/11/11/1917189116) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/henaodiaz-pnas-2019-reply.pdf)
 
-Guzman, L.M., **M.W. Pennell**, E. Nikelski, and D.S. Srivastava. Successful integration of data science in undergraduate biostatistics courses using cognitive load theory. CBE Life Sciences Education 18:ar49 [[doi]](https://www.lifescied.org/doi/full/10.1187/cbe.19-02-0041) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/guzman-cbelse-2019.pdf)
+Guzman, L.M., **M.W. Pennell**, E. Nikelski, and D.S. Srivastava. Successful integration of data science in undergraduate biostatistics courses using cognitive load theory. CBE Life Sciences Education 18:ar49. [[doi]](https://www.lifescied.org/doi/full/10.1187/cbe.19-02-0041) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/guzman-cbelse-2019.pdf)
 
-Guzman, L.M., and **M.W. Pennell**. Mathematical statistics for biologists and other interesting people. Trends in Ecology and Evolution [[doi]](https://www.sciencedirect.com/science/article/pii/S0169534719302794) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/guzman-tree-2019.pdf)
+Guzman, L.M., and **M.W. Pennell**. Mathematical statistics for biologists and other interesting people. Trends in Ecology and Evolution. [[doi]](https://www.sciencedirect.com/science/article/pii/S0169534719302794) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/guzman-tree-2019.pdf)
 
 **Kaur, K.M.**, and **M.W. Pennell**. Digest: Process-based phylogenetic models provide unique insights into the evolution of mutualistic networks. Evolution. [[doi]](https://onlinelibrary.wiley.com/doi/10.1111/evo.13856) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/kaur-evol-2019.pdf)
 
