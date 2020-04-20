@@ -6,32 +6,37 @@ Complete list of papers by [Matthew Pennell](http://www.zoology.ubc.ca/person/pe
 
 **Bold** indicates lab members. \* denotes equal contributions.
 
+### 2020
+
+Louca, S. and **M.W. Pennell**. Extant timetrees are consistent with a myriad of diversification scenarios. Nature. [[doi]](https://www.nature.com/articles/s41586-020-2176-1) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/louca-nature-2020.pdf)
+
+* Commentary by Mark Pagel in [Nature](https://www.nature.com/articles/d41586-020-01021-4)
+
+Smith, S.D., **M.W. Pennell**, C.W. Dunn, and S.V. Edwards. Phylogenetics is the new genetics (for most of biodiversity). Trends in Ecology and Evolution 35:415-425. [[doi]](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(20)30007-0) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/smith-tree-2020.pdf)
 
 ### 2019
 
-**Henao Diaz, L.F.**, L.J. Harmon, **M.T.C. Sugawara**, E.T. Miller, and **M.W. Pennell**. Reply to Wiens and Scholl: The time dependency of diversification rates is a widely observed phenomenon. Proceedings of the National Academy of Sciences. [[doi]](https://www.pnas.org/content/early/2019/11/11/1917189116) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/henaodiaz-pnas-2019B.pdf)
+**Henao Diaz, L.F.**, L.J. Harmon, **M.T.C. Sugawara**, E.T. Miller, and **M.W. Pennell**. Reply to Wiens and Scholl: The time dependency of diversification rates is a widely observed phenomenon. Proceedings of the National Academy of Sciences 116:24401. [[doi]](https://www.pnas.org/content/early/2019/11/11/1917189116) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/henaodiaz-pnas-2019B.pdf)
 
 Guzman, L.M., **M.W. Pennell**, E. Nikelski, and D.S. Srivastava. Successful integration of data science in undergraduate biostatistics courses using cognitive load theory. CBE Life Sciences Education 18:ar49. [[doi]](https://www.lifescied.org/doi/full/10.1187/cbe.19-02-0041) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/guzman-cbelse-2019.pdf)
 
-Guzman, L.M., and **M.W. Pennell**. Mathematical statistics for biologists and other interesting people. Trends in Ecology and Evolution. [[doi]](https://www.sciencedirect.com/science/article/pii/S0169534719302794) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/guzman-tree-2019.pdf)
+Guzman, L.M., and **M.W. Pennell**. Mathematical statistics for biologists and other interesting people. Trends in Ecology and Evolution 34:1064-1065. [[doi]](https://www.sciencedirect.com/science/article/pii/S0169534719302794) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/guzman-tree-2019.pdf)
 
-**Kaur, K.M.**, and **M.W. Pennell**. Digest: Process-based phylogenetic models provide unique insights into the evolution of mutualistic networks. Evolution. [[doi]](https://onlinelibrary.wiley.com/doi/10.1111/evo.13856) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/kaur-evol-2019.pdf)
+**Kaur, K.M.**, and **M.W. Pennell**. Digest: Process-based phylogenetic models provide unique insights into the evolution of mutualistic networks. Evolution 73:2345-2346. [[doi]](https://onlinelibrary.wiley.com/doi/10.1111/evo.13856) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/kaur-evol-2019.pdf)
 
-Louca, S., and **M.W. Pennell**. Phylogenies of extant species are consistent with an infinite array of diversification histories. BioRxiv. [[doi]](https://www.biorxiv.org/content/10.1101/719435v1) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/louca-biorxiv-2019.pdf)
-
-Louca, S., and **M.W. Pennell**. A general and efficient algorithm for the likelihood of diversification and discrete-state evolutionary models. Systematic Biology. [[doi]](https://doi.org/10.1093/sysbio/syz055) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/louca-sysbio-2019.pdf)
+Louca, S., and **M.W. Pennell**. A general and efficient algorithm for the likelihood of diversification and discrete-state evolutionary models. Systematic Biology 69:545–556. [[doi]](https://doi.org/10.1093/sysbio/syz055) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/louca-sysbio-2019.pdf)
 
 **Henao Diaz, L.F.**, L.J. Harmon, **M.T.C. Sugawara**, E.T. Miller, and **M.W. Pennell**. Macroevolutionary diversification rates show time-dependency. Proceedings of the National Academy of Sciences 116:7403-7408. [[doi]](https://www.pnas.org/content/early/2019/03/22/1818058116) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/henaodiaz-pnas-2019.pdf)
 
-C.M. Tucker, T. Aze, M.W. Cadotte, J.L. Cantalapiedra, C. Chisholm, S. Díaz, R. Grenyer, D. Huang, F. Mazel, W.D. Pearse, **M.W. Pennell**, M. Winter, and A.Ø. Mooers. Assessing the utility of conserving evolutionary history. Biological Reviews. [[doi]](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12526) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/tucker-biolrev-2019.pdf)
+C.M. Tucker, T. Aze, M.W. Cadotte, J.L. Cantalapiedra, C. Chisholm, S. Díaz, R. Grenyer, D. Huang, F. Mazel, W.D. Pearse, **M.W. Pennell**, M. Winter, and A.Ø. Mooers. Assessing the utility of conserving evolutionary history. Biological Reviews  94:1740-1760. [[doi]](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12526) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/tucker-biolrev-2019.pdf)
 
 Cantalapiedra, J.L., T. Aze, M.W. Cadotte, G.V. Dalla Riva, D.Huang, F. Mazel, **M.W. Pennell**, M. Ríos, and A.Ø. Mooers. Conserving evolutionary history does not result in greater diversity over geological time scales. Proceedings of the Royal Society B: Biological Sciences 286. [[doi]](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2018.2896) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/cantalapiedra-procb-2019.pdf)
 
-Falster, D., R.G. FitzJohn, **M.W. Pennell**, and W.K. Cornwell. Datastorr: a workflow and package for delivering successive versions of 'evolving data' directly into R. Gigascience 8:giz035 [[doi]](https://academic.oup.com/gigascience/article/8/5/giz035/5482388) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/falster-gigascience-2019.pdf) 
+Falster, D., R.G. FitzJohn, **M.W. Pennell**, and W.K. Cornwell. Datastorr: a workflow and package for delivering successive versions of 'evolving data' directly into R. Gigascience 8:giz035 [[doi]](https://academic.oup.com/gigascience/article/8/5/giz035/5482388) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/falster-gigascience-2019.pdf)
 
 * [datastorr:](https://github.com/ropenscilabs/datastorr) a R package to build and distribute versioned datasets with GitHub.
 
-Harmon, L.J., C.S. Andreazzi, F. Débarre, J. Drury, E.E. Goldberg, A.B. Martins, C.J. Melián, A. Narwani, S.L. Nuismer, **M.W. Pennell**, S.M. Rudman, O. Seehausen, D. Silverstro, M. Weber, and B. Matthews. Detecting the Macroevolutionary Signal of Species Interactions. Journal of Evolutionary Biology. [[doi]](https://onlinelibrary.wiley.com/doi/abs/10.1111/jeb.13477) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/harmon-jeb-2019.pdf)
+Harmon, L.J., C.S. Andreazzi, F. Débarre, J. Drury, E.E. Goldberg, A.B. Martins, C.J. Melián, A. Narwani, S.L. Nuismer, **M.W. Pennell**, S.M. Rudman, O. Seehausen, D. Silverstro, M. Weber, and B. Matthews. Detecting the Macroevolutionary Signal of Species Interactions. Journal of Evolutionary Biology 32:769-782. [[doi]](https://onlinelibrary.wiley.com/doi/abs/10.1111/jeb.13477) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/harmon-jeb-2019.pdf)
 
 O'Connor, M.I., **M.W. Pennell**, F. Altermatt, B. Matthews, C.J. Melián, and A. Gonzalez. Principles of ecology revisted: integrating information and ecological theories for a more unified science. Frontiers in Ecology and Evolution 7:219. [[doi]](https://www.frontiersin.org/articles/10.3389/fevo.2019.00219/full) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/oconnor-frontiersee-2019.pdf)
 
@@ -79,7 +84,7 @@ Osmond, M.M., M.A. Barbour, J.R. Bernhardt, **M.W. Pennell**, J.M. Sunday, and M
 
 Tank, D.C., J.M. Eastman, **M.W. Pennell**, P.S. Soltis, D.E. Soltis, C.E. Hinchliff, J.W. Brown, E.B. Sessa, and L.J. Harmon. Nested radiations and the pulse of angiosperm diversification. New Phytologist 207:454-467. [[doi]](http://onlinelibrary.wiley.com/doi/10.1111/nph.13491/abstract) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/tank-newphyt-2015.pdf) [[repo]](https://github.com/harmonlab/angio-pulse)
 
-**Pennell, M.W.**, R.G. FitzJohn, W.K. Cornwell, and L.J. Harmon. Model adequacy and the macroevolution of angiosperm functional traits. The American Naturalist 186: E33-E50. [[doi]](http://www.jstor.org/stable/full/10.1086/682022) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/pennell-amnat-2015.pdf) [[repo]](https://github.com/richfitz/modeladequacy) 
+**Pennell, M.W.**, R.G. FitzJohn, W.K. Cornwell, and L.J. Harmon. Model adequacy and the macroevolution of angiosperm functional traits. The American Naturalist 186: E33-E50. [[doi]](http://www.jstor.org/stable/full/10.1086/682022) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/pennell-amnat-2015.pdf) [[repo]](https://github.com/richfitz/modeladequacy)
 
 **Pennell, M.W.**\*, M. Kirkpatrick\*, S.P. Otto\*, J.C. Vamosi, C.L. Piechel, N. Valenzuela, and J. Kitano. Y fuse? Sex chromosome fusions in fishes and reptiles. PLoS Genetics 11:e1005237 [[doi]](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005237) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/pennell-plosgen-2015.pdf)
 
@@ -137,4 +142,3 @@ Rosenblum, E.B., B.A.J. Sarver, J.W. Brown, S. Des Roches, K.M. Hardwick, T.D. H
 ### 2011
 
 Green, D.J., K.B. Loukes, **M.W. Pennell**, J. Jarvis, and W.E. Easton. 2011. Reservoir water levels do not influence daily mass gain of warblers at a riparian stopover site. Journal of Field Ornithology 82:11-24. [[doi]](http://onlinelibrary.wiley.com/doi/10.1111/j.1557-9263.2010.00303.x/full) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/green-jfo-2011.pdf)
-
