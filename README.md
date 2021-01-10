@@ -6,9 +6,11 @@ Complete list of papers by [Matthew Pennell](http://www.zoology.ubc.ca/person/pe
 
 **Bold** indicates lab members. \* denotes equal contributions.
 
-### 2020
+### 2021
 
 Louca, S. and **M.W. Pennell**. Why extinction estimates from extant phylogenies are so often zero. BioRxiv. [[doi]](https://www.biorxiv.org/content/10.1101/2021.01.04.425256v1)
+
+### 2020
 
 **MacPherson, A.**, S. Louca, A. MacLaughlin, J.B. Joy, and **M.W. Pennell**. A General Birth-Death-Sampling Model for Epidemiology and Macroevolution. BioRxiv. [[doi]](https://www.biorxiv.org/content/10.1101/2020.10.10.334383v2.abstract)
 
