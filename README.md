@@ -8,9 +8,19 @@ Complete list of papers by [Matthew Pennell](http://www.zoology.ubc.ca/person/pe
 
 ### 2020
 
+Louca, S. and **M.W. Pennell**. Why extinction estimates from extant phylogenies are so often zero. BioRxiv. [[doi]](https://www.biorxiv.org/content/10.1101/2021.01.04.425256v1)
+
+**MacPherson, A.**, S. Louca, A. MacLaughlin, J.B. Joy, and **M.W. Pennell**. A General Birth-Death-Sampling Model for Epidemiology and Macroevolution. BioRxiv. [[doi]](https://www.biorxiv.org/content/10.1101/2020.10.10.334383v2.abstract)
+
+Neto-Bradley, B.M., J. Whitton, L.P.J. Lipsen, and **M.W. Pennell**. Macroevolutionary history predicts flowering time but not phenological sensitivity to temperature in grasses. American Journal of Botany.
+
+Porto, D.S., E.A.B. Almeida and **M.W. Pennell**. Investigating Morphological Complexes Using Informational Dissonance and Bayes Factors: A Case Study in Corbiculate Bees. Systematic Biology. [[doi]](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syaa059/5877441)
+
 Louca, S. and **M.W. Pennell**. Extant timetrees are consistent with a myriad of diversification scenarios. Nature. [[doi]](https://www.nature.com/articles/s41586-020-2176-1) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/louca-nature-2020.pdf)
 
 * Commentary by Mark Pagel in [Nature](https://www.nature.com/articles/d41586-020-01021-4)
+
+Louca, S., and **M.W. Pennell**. A general and efficient algorithm for the likelihood of diversification and discrete-state evolutionary models. Systematic Biology 69:545–556. [[doi]](https://doi.org/10.1093/sysbio/syz055) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/louca-sysbio-2019.pdf)
 
 Smith, S.D., **M.W. Pennell**, C.W. Dunn, and S.V. Edwards. Phylogenetics is the new genetics (for most of biodiversity). Trends in Ecology and Evolution 35:415-425. [[doi]](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(20)30007-0) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/smith-tree-2020.pdf)
 
@@ -23,8 +33,6 @@ Guzman, L.M., **M.W. Pennell**, E. Nikelski, and D.S. Srivastava. Successful int
 Guzman, L.M., and **M.W. Pennell**. Mathematical statistics for biologists and other interesting people. Trends in Ecology and Evolution 34:1064-1065. [[doi]](https://www.sciencedirect.com/science/article/pii/S0169534719302794) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/guzman-tree-2019.pdf)
 
 **Kaur, K.M.**, and **M.W. Pennell**. Digest: Process-based phylogenetic models provide unique insights into the evolution of mutualistic networks. Evolution 73:2345-2346. [[doi]](https://onlinelibrary.wiley.com/doi/10.1111/evo.13856) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/kaur-evol-2019.pdf)
-
-Louca, S., and **M.W. Pennell**. A general and efficient algorithm for the likelihood of diversification and discrete-state evolutionary models. Systematic Biology 69:545–556. [[doi]](https://doi.org/10.1093/sysbio/syz055) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/louca-sysbio-2019.pdf)
 
 **Henao Diaz, L.F.**, L.J. Harmon, **M.T.C. Sugawara**, E.T. Miller, and **M.W. Pennell**. Macroevolutionary diversification rates show time-dependency. Proceedings of the National Academy of Sciences 116:7403-7408. [[doi]](https://www.pnas.org/content/early/2019/03/22/1818058116) [[pdf]](https://github.com/mwpennell/publications/blob/master/pdfs/henaodiaz-pnas-2019.pdf)
 
